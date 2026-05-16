@@ -1,6 +1,6 @@
 # Grafana Dashboards for HPC monitoring
 
-To deploy, have **Grafana** running, then simple import dashboards by uploading these JSON files.
+To deploy, have **Grafana** running, then simply import dashboards by uploading these JSON files.
 
 *Make sure you have prometheus and the exporter services running*
 
