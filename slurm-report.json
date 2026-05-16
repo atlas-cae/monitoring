@@ -43,7 +43,7 @@
                     "hidden": false,
                     "query": {
                       "datasource": {
-                        "name": "dfjmsrso8nhfke"
+                        "name": "${DS_PROMETHEUS}"
                       },
                       "group": "prometheus",
                       "kind": "DataQuery",
